@@ -29,7 +29,6 @@ class UVServiceWorker extends EventEmitter {
                 'accept-encoding', 
                 'connection',
                 'content-length',
-                'content-type',
                 'user-agent',
             ],
         };
